@@ -5,7 +5,8 @@ Project is about to create basc API's for loan management
 The task are mentioned below:
 
  - Build API's which allows users to register and login.
- - Build API's which allows users to create loan and create repayments.
+ - Build API's which allows users to create loan and show loan.
+ - Build API's which allows users to create repayments.
 
 ## Installation Instructions
 
